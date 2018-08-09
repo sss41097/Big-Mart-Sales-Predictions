@@ -1,1 +1,2 @@
 # Big-Mart-Sales-Predictions
+This is a regression task,in which,we have to predict the sales of a particular product in 10 different outlet.The dataset consists of many features such as Outlet Identifier,Outlet Size,Outlet Type,Item Fat Content,Item Visibility in Store and many more.Based on these features we have to train our model.Various Machine Learning Algorithms were used.XGBoost gave the best scores among all algorithms.
